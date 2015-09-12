@@ -4,7 +4,7 @@
 #ifdef TESTING
 #include "gtest/gtest.h"
 #endif
-
+ 
 #ifndef TESTING
 void palindrome(std::string &s);
 
